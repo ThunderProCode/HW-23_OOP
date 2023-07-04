@@ -1,0 +1,15 @@
+C:\Users\hecto\OneDrive\Documents\2023 Summer Semester\OOP\HW\HW#23\bin\Debug\net7.0\HW#23.exe
+C:\Users\hecto\OneDrive\Documents\2023 Summer Semester\OOP\HW\HW#23\bin\Debug\net7.0\HW#23.deps.json
+C:\Users\hecto\OneDrive\Documents\2023 Summer Semester\OOP\HW\HW#23\bin\Debug\net7.0\HW#23.runtimeconfig.json
+C:\Users\hecto\OneDrive\Documents\2023 Summer Semester\OOP\HW\HW#23\bin\Debug\net7.0\HW#23.dll
+C:\Users\hecto\OneDrive\Documents\2023 Summer Semester\OOP\HW\HW#23\bin\Debug\net7.0\HW#23.pdb
+C:\Users\hecto\OneDrive\Documents\2023 Summer Semester\OOP\HW\HW#23\obj\Debug\net7.0\HW#23.csproj.AssemblyReference.cache
+C:\Users\hecto\OneDrive\Documents\2023 Summer Semester\OOP\HW\HW#23\obj\Debug\net7.0\HW#23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\OneDrive\Documents\2023 Summer Semester\OOP\HW\HW#23\obj\Debug\net7.0\HW#23.AssemblyInfoInputs.cache
+C:\Users\hecto\OneDrive\Documents\2023 Summer Semester\OOP\HW\HW#23\obj\Debug\net7.0\HW#23.AssemblyInfo.cs
+C:\Users\hecto\OneDrive\Documents\2023 Summer Semester\OOP\HW\HW#23\obj\Debug\net7.0\HW#23.csproj.CoreCompileInputs.cache
+C:\Users\hecto\OneDrive\Documents\2023 Summer Semester\OOP\HW\HW#23\obj\Debug\net7.0\HW#23.dll
+C:\Users\hecto\OneDrive\Documents\2023 Summer Semester\OOP\HW\HW#23\obj\Debug\net7.0\refint\HW#23.dll
+C:\Users\hecto\OneDrive\Documents\2023 Summer Semester\OOP\HW\HW#23\obj\Debug\net7.0\HW#23.pdb
+C:\Users\hecto\OneDrive\Documents\2023 Summer Semester\OOP\HW\HW#23\obj\Debug\net7.0\HW#23.genruntimeconfig.cache
+C:\Users\hecto\OneDrive\Documents\2023 Summer Semester\OOP\HW\HW#23\obj\Debug\net7.0\ref\HW#23.dll
